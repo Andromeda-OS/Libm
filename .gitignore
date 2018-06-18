@@ -5,3 +5,6 @@
 *.so*
 *.dylib*
 *.pc
+
+# Xcode
+xcuserdata
